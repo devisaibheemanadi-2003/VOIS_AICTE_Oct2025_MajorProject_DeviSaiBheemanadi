@@ -2,16 +2,16 @@
 A data-driven analysis of Netflix’s content evolution, exploring trends in Movies vs. TV Shows, genre popularity, and country-wise contributions. Uncovers strategic insights into audience preferences and global content expansion to guide data-backed recommendations for Netflix’s future strategy.
 🎬 Netflix Content Trends Analysis — Strategic Insights for Global Content Expansion
 🧠 Data-Driven Storytelling for Smarter Content Strategy
-📌 Project Overview
+## 📌 Project Overview
 
 This project provides an in-depth analysis of Netflix’s content distribution patterns — focusing on Movies vs. TV Shows, genre evolution, and country-wise contributions over the years.
 It leverages exploratory data analysis (EDA) and trend-based visualizations to uncover actionable insights into Netflix’s content diversification, audience preferences, and global expansion strategy.
 
-🎯 Problem Statement
+## 🎯 Problem Statement
 
 “To analyze how Netflix’s content distribution (Movies vs. TV Shows, genres, and country contributions) has evolved over time — and to generate strategic recommendations for content planning and audience engagement.”
 
-🧩 Objectives
+## 🧩 Objectives
 
 Analyze the distribution of Movies vs. TV Shows over the years.
 
@@ -21,7 +21,7 @@ Compare country-wise contributions to Netflix’s global catalog.
 
 Derive data-driven strategic recommendations for Netflix’s future content roadmap.
 
-🧮 Dataset Information
+## 🧮 Dataset Information
 
 Total Records: 7,789
 
@@ -32,9 +32,9 @@ Data Range: 2008–2021
 Attributes Include:
 show_id, category, title, director, cast, country, release_date, rating, duration, type, description
 
-📁 Source: Public Netflix dataset (Kaggle / internal academic dataset)
+## 📁 Source: Public Netflix dataset (Kaggle / internal academic dataset)
 
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 Category	Tools/Libraries
 Language	Python
 Data Handling	pandas, numpy
@@ -81,7 +81,7 @@ Genre lifecycle visualization (multi-line chart)
 
 Year-wise production surge analysis
 
-📊 Key Insights
+## 📊 Key Insights
 
 Netflix’s catalog grew exponentially post-2015, marking a strategic shift in content acquisition.
 
@@ -97,7 +97,7 @@ Movie durations stabilized around ~100 mins, while TV shows expanded into multi-
 
 Rating distribution shows a strong balance between mature content (TV-MA) and family-safe categories (TV-14).
 
-💼 Strategic Recommendations
+## 💼 Strategic Recommendations
 
 Localize Originals: Expand region-specific production hubs (India, Spain, Korea).
 
@@ -109,7 +109,7 @@ Data-Driven Acquisition: Identify underrepresented genres through predictive mod
 
 Optimize Duration & Ratings Mix: Balance family content with high-engagement mature titles.
 
-📈 Outcomes
+## 📈 Outcomes
 
 🔍 Clear understanding of Netflix’s evolving content strategy.
 
@@ -119,14 +119,14 @@ Optimize Duration & Ratings Mix: Balance family content with high-engagement mat
 
 🧩 Strategic roadmap for future content and audience engagement.
 
-🧾 Visual Highlights
+## 🧾 Visual Highlights
 Analysis	Description
 Movies vs TV Shows	Line chart showing balance shift post-2015
 Genre Evolution	Multi-line genre trends (top 5 genres)
 Country Distribution	Choropleth world map of content origin
 Correlation Heatmap	Feature relationship visualization
 Rating Analysis	Category-wise content maturity overview
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Build a content recommendation model using similarity and clustering techniques.
 
@@ -134,13 +134,12 @@ Integrate viewer sentiment analysis (from reviews/ratings).
 
 Deploy an interactive Streamlit dashboard for real-time content insights.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Devi Sai Bheemanadi (Chinna)
+Devi Sai Bheemanadi 
 🎓 Final Year CSE Student | Data Analyst | Generative AI Enthusiast
 📍 Andhra Pradesh, India
-🔗 GitHub: [Your GitHub Profile Link]
-🔗 LinkedIn: [Your LinkedIn Profile Link]
+🔗 LinkedIn: https://www.linkedin.com/in/devisaibheemanadi
 
 🏁 Conclusion
 
